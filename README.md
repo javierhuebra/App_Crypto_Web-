@@ -5,9 +5,12 @@ Versión web de la aplicación para consulta de valores de activos en monedas de
 <img  src="/src/assets/images/adasdas.png"></img>
 <img width="250PX" src="/src/assets/images/pagchiquita.png"></img>
 
+## Link Web
+
+
 ## Descargar en PlayStore
 
-<a href="https://play.google.com/store/apps/details?id=com.notjust.cryptocheck"><img width="250PX" src="src/assets/img/getitplaystore.png"></img></a>
+<a href="https://play.google.com/store/apps/details?id=com.notjust.cryptocheck"><img width="250PX" src="src/assets/images/getitplaystore.png"></img></a>
 
 
 
