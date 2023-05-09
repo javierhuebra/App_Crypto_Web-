@@ -1,0 +1,20 @@
+.img-doble{
+    width: 100%;
+    margin: 10px 0;
+    border-radius: 16px;
+}
+
+.links{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    background-color: red;
+    padding: 5px;
+    border-radius: 6px;
+}
+.linke{
+    background-color: #0e76a8;
+}
+.git{
+    background-color: #181717;
+}

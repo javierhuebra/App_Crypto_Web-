@@ -1,0 +1,16 @@
+.texto{
+margin: 0;
+}
+.span-text{
+    font-weight: bold;
+    margin-left: 5px;
+}
+.valor{
+    font-size: 30px;
+}
+
+.resultado{
+    
+    margin-top: 25px;
+    margin: 15px 15px 0 15px;
+}
