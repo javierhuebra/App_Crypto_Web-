@@ -6,7 +6,7 @@ Versión web de la aplicación para consulta de valores de activos en monedas de
 <img width="250PX" src="/src/assets/images/pagchiquita.png"></img>
 
 ## Link Web
-
+<a href="https://appcryptocheck.netlify.app/"><img width="250PX" src="https://www.pngmart.com/files/3/World-Wide-Web-PNG-Pic.png"></img></a>
 
 ## Descargar en PlayStore
 
